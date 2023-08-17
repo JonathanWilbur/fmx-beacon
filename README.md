@@ -1,6 +1,8 @@
-# fmx_beacon
+# Find-My-X Beacon Android and iOS App
 
-A new Flutter project.
+This repo is a cross-platform Android and iPhone app that transmits location
+data to a remote, possibly self-hosted Find-My-X protocol server, such as the
+one being developed [here](https://github.com/JonathanWilbur/find-my-x).
 
 ## Getting Started
 
